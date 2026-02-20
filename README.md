@@ -1,32 +1,25 @@
-# Chatbot-Gemini - AI Smartphone Expert 
+🔧 1. Requisitos Previos
 
-**Chatbot-Gemini** es una plataforma moderna de recomendación de smartphones que integra inteligencia artificial para ayudar a los usuarios a elegir el dispositivo perfecto mediante un catálogo interno dinámico.
+Antes de la instalación, agrega esto:
 
-##  Características Principales
-- **Asistente de IA Inteligente**: Chatbot impulsado por **Google Gemini** y **Genkit**.
-- **Voz de IA (TTS)**: Las recomendaciones pueden ser escuchadas con voces naturales.
-- **Análisis Experto Individual**: Botón de análisis por IA para cada producto del catálogo.
-- **Sistema de Ofertas Flash**: La IA prioriza teléfonos con descuentos y calcula el ahorro real para el usuario.
-- **Interfaz Premium**: Diseño ultra-moderno con **ShadCN UI**, **Tailwind CSS** y animaciones de alta calidad.
+## 📋 Requisitos Previos
 
-## 🛠️ Stack Tecnológico
-- **Framework**: Next.js 15 (App Router)
-- **IA**: Firebase Genkit & Google Gemini (Modelo 2.5 Flash)
-- **Estilos**: Tailwind CSS & ShadCN UI
-- **Iconos**: Lucide React
+Antes de comenzar, asegúrate de tener instalado:
 
-## 📦 Instalación
-1. **Instalar dependencias**:
-   ```bash
-   npm install
-   ```
-2. **Configurar variables de entorno**:
-   Crea un archivo `.env` y añade tu clave de API de Google AI:
-   ```env
-   GOOGLE_GENAI_API_KEY=tu_api_key_aqui
-   ```
-3. **Ejecutar en desarrollo**:
-   ```bash
-   npm run dev
-   ```
+- Node.js 18 o superior
+- npm o yarn
+- Cuenta en Google AI Studio
+- Proyecto en Firebase (si usas Genkit con Firebase)
+🚀 2. Configuración Completa de la IA (Muy Importante)
 
+No solo pongas la variable. Explica cómo obtenerla:
+
+## 🔑 Configuración de Google Gemini API
+
+1. Ve a https://aistudio.google.com/
+2. Crea una API Key.
+3. Copia la clave generada.
+4. Crea un archivo `.env.local` en la raíz del proyecto.
+5. Agrega:
+
+GOOGLE_GENAI_API_KEY=tu_api_key_aqui
