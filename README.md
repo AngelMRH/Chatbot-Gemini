@@ -1,4 +1,4 @@
- 1. Requisitos Previos
+🔧 1. Requisitos Previos
 
 Antes de la instalación, agrega esto:
 
@@ -10,9 +10,7 @@ Antes de comenzar, asegúrate de tener instalado:
 - npm o yarn
 - Cuenta en Google AI Studio
 - Proyecto en Firebase (si usas Genkit con Firebase)
-
-  
- 2. Configuración Completa de la IA (Muy Importante)
+🚀 2. Configuración Completa de la IA (Muy Importante)
 
 No solo pongas la variable. Explica cómo obtenerla:
 
@@ -26,8 +24,7 @@ No solo pongas la variable. Explica cómo obtenerla:
 
 GOOGLE_GENAI_API_KEY=tu_api_key_aqui
 
-
- 3. Cómo Funciona la Arquitectura
+🧠 3. Cómo Funciona la Arquitectura
 
 Esto le da mucho nivel profesional:
 
@@ -38,9 +35,7 @@ Esto le da mucho nivel profesional:
 - `lib/ai/` → Configuración de Genkit y prompts
 - `data/` → Catálogo interno de smartphones
 - `utils/` → Funciones auxiliares (cálculo de descuentos, etc.)
-
-  
- 4. Ejemplo de Flujo de IA
+📊 4. Ejemplo de Flujo de IA
 
 Esto es clave para que sepan cómo implementarlo:
 
@@ -54,18 +49,14 @@ Esto es clave para que sepan cómo implementarlo:
    - Ofertas activas
 4. Gemini genera una recomendación personalizada.
 5. (Opcional) Se convierte el texto a voz con TTS.
-
-
- 5. Scripts Disponibles
+🧪 5. Scripts Disponibles
 ## 📜 Scripts
 
 npm run dev      → Desarrollo
 npm run build    → Build producción
 npm run start    → Ejecutar producción
 npm run lint     → Revisar código
-
-
- 6. Variables de Entorno
+🏷️ 6. Variables de Entorno
 
 Muy profesional agregar tabla:
 
@@ -74,9 +65,7 @@ Muy profesional agregar tabla:
 | Variable | Descripción |
 |----------|------------|
 | GOOGLE_GENAI_API_KEY | API Key de Google Gemini |
-
-
-7. Deploy (MUY importante)
+🌍 7. Deploy (MUY importante)
 
 Si usas Vercel:
 
@@ -97,4 +86,4 @@ Si usas Vercel:
 ## 👨‍💻 Autor
 
 Desarrollado por Angel Manuel Ruiz  
-Especialista en Sistemas Inteligentes y Desarrollo Full Stack
+Especialista en Sistemas Inteligentes 
