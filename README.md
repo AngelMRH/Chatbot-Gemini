@@ -69,15 +69,6 @@ Muy profesional agregar tabla:
 
 Si usas Vercel:
 
-## 🚀 Deploy en Vercel
-
-1. Sube el repositorio a GitHub.
-2. Conecta el proyecto en Vercel.
-3. Agrega la variable de entorno en:
-   Settings → Environment Variables
-4. Deploy automático.
-🛡️ 8. Seguridad
-## 🔐 Seguridad
 
 - La API Key nunca debe subirse al repositorio.
 - Usa `.env.local`
