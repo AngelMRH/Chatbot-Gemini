@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "phone-gaming",
+      "description": "Powerful gaming smartphone with RGB lights",
+      "imageUrl": "https://images.unsplash.com/photo-1694747565836-c27f30275af4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnYW1pbmclMjBzbWFydHBob25lfGVufDB8fHx8MTc3MDc1MzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gaming smartphone"
+    },
+    {
+      "id": "phone-photography",
+      "description": "Elegant smartphone with multiple camera lenses",
+      "imageUrl": "https://images.unsplash.com/photo-1599072648599-eb5335feccd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeSUyMHNtYXJ0cGhvbmV8ZW58MHx8fHwxNzcwNzUzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "photography smartphone"
+    },
+    {
+      "id": "phone-budget",
+      "description": "Reliable mid-range smartphone",
+      "imageUrl": "https://images.unsplash.com/photo-1761906976176-0559a6d130dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBzbWFydHBob25lfGVufDB8fHx8MTc3MDY1ODM0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern smartphone"
+    },
+    {
+      "id": "phone-premium",
+      "description": "High-end luxury smartphone",
+      "imageUrl": "https://images.unsplash.com/photo-1748416100800-067650ac30d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcmVtaXVtJTIwc21hcnRwaG9uZXxlbnwwfHx8fDE3NzA3NTMyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "premium smartphone"
+    },
+    {
+      "id": "hero-chat",
+      "description": "Person using a smartphone with a chatbot",
+      "imageUrl": "https://images.unsplash.com/photo-1592647416962-838a003e9859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWFydHBob25lJTIwY2hhdHxlbnwwfHx8fDE3NzA3NTMyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone chat"
+    }
+  ]
+}
