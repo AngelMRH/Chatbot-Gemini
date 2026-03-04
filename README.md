@@ -76,5 +76,5 @@ Si usas Vercel:
 ⭐ 9. Sección Final Profesional
 ## 👨‍💻 Autor
 
-Desarrollado por Angel Manuel Ruiz  
-Especialista en Sistemas Inteligentes 
+Desarrollado por Angel Ruiz  
+
