@@ -2,7 +2,7 @@
 
 Antes de la instalación, agrega esto:
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado:
 
@@ -10,11 +10,11 @@ Antes de comenzar, asegúrate de tener instalado:
 - npm o yarn
 - Cuenta en Google AI Studio
 - Proyecto en Firebase (si usas Genkit con Firebase)
-🚀 2. Configuración Completa de la IA (Muy Importante)
+   2. Configuración Completa de la IA (Muy Importante)
 
 No solo pongas la variable. Explica cómo obtenerla:
 
-## 🔑 Configuración de Google Gemini API
+##  Configuración de Google Gemini API
 
 1. Ve a https://aistudio.google.com/
 2. Crea una API Key.
@@ -24,22 +24,22 @@ No solo pongas la variable. Explica cómo obtenerla:
 
 GOOGLE_GENAI_API_KEY=tu_api_key_aqui
 
-🧠 3. Cómo Funciona la Arquitectura
+ 3. Cómo Funciona la Arquitectura
 
 Esto le da mucho nivel profesional:
 
-## 🏗️ Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 - `app/` → Rutas y vistas principales (App Router)
 - `components/` → Componentes reutilizables (UI + Chatbot)
 - `lib/ai/` → Configuración de Genkit y prompts
 - `data/` → Catálogo interno de smartphones
 - `utils/` → Funciones auxiliares (cálculo de descuentos, etc.)
-📊 4. Ejemplo de Flujo de IA
+   4. Ejemplo de Flujo de IA
 
 Esto es clave para que sepan cómo implementarlo:
 
-## 🤖 Flujo de Recomendación IA
+##  Flujo de Recomendación IA
 
 1. El usuario describe sus necesidades.
 2. El sistema analiza el catálogo interno.
