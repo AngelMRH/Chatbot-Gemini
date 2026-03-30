@@ -49,14 +49,14 @@ Esto es clave para que sepan cómo implementarlo:
    - Ofertas activas
 4. Gemini genera una recomendación personalizada.
 5. (Opcional) Se convierte el texto a voz con TTS.
-🧪 5. Scripts Disponibles
-## 📜 Scripts
+ 5. Scripts Disponibles
+##  Scripts
 
 npm run dev      → Desarrollo
 npm run build    → Build producción
 npm run start    → Ejecutar producción
 npm run lint     → Revisar código
-🏷️ 6. Variables de Entorno
+ 6. Variables de Entorno
 
 Muy profesional agregar tabla:
 
