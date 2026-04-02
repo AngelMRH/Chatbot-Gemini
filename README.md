@@ -60,12 +60,12 @@ npm run lint     → Revisar código
 
 Muy profesional agregar tabla:
 
-## 🌎 Variables de Entorno
+##  Variables de Entorno
 
 | Variable | Descripción |
 |----------|------------|
 | GOOGLE_GENAI_API_KEY | API Key de Google Gemini |
-🌍 7. Deploy (MUY importante)
+ 7. Deploy (MUY importante)
 
 Si usas Vercel:
 
