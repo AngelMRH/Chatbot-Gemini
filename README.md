@@ -1,4 +1,4 @@
-🔧 1. Requisitos Previos
+ 1. Requisitos Previos
 
 Antes de la instalación, agrega esto:
 
